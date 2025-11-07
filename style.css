@@ -1,0 +1,30 @@
+html, body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background: #f0f6e8;
+    height: 100%;
+    margin: 0;
+}
+
+.heading {
+    position: fixed;
+    top: 0;
+    text-align: center;
+    padding: 10px 20px;
+    margin-top: 20px;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+.container {
+    height: 1000px;
+    width: 1000px;
+    outline: 3px solid black; 
+    display: grid;
+}
+
+.grid {
+    outline: 0.5px solid darkgrey;
+}

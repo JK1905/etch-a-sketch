@@ -5,8 +5,8 @@ This project is a browser-based Etch-A-Sketch game built with HTML, CSS,, and Ja
 ## Features
 
 - Interactive grid that responds to mouse hover.
-- Hovred squares change color in sequence.
-- Cusomizable grid size (from 50x50 up to 100x100).
+- Hovered squares change color in sequence.
+- Customizable grid size (from 50x50 up to 100x100).
 - Dynamic creation and removal of grid elements with each new size selection.
 
 ## How to play
@@ -25,5 +25,5 @@ This project is a browser-based Etch-A-Sketch game built with HTML, CSS,, and Ja
 - User input handling with `prompt()` and validation.
 
 ## Notes
-- The grid is created dynamically in JavaScript; no pre-exisiting squares are in the HTML.
-- The proiject demonstrates fundamental DOM manipulation and interactive UI logic.
+- The grid is created dynamically in JavaScript; no pre-existing squares are in the HTML.
+- The project demonstrates fundamental DOM manipulation and interactive UI logic.
